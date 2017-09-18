@@ -12,11 +12,17 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
  
  5- Pi Camera
  
-# Installtion 
+# Installtion and running your network with USB Camera on RPI
  Please follow the attached installation guide provided by Movidius NCS :
- https://ncs-forum-uploads.s3.amazonaws.com/ncsdk/MvNC_SDK_01_07_07/NCS_API_1.07.07.pdf
-
-# USB Camera Example on RPI
+ 
+ https://ncs-forum-uploads.s3.amazonaws.com/ncsdk/MvNC_SDK_01_07_07/NCS_Getting_Started_1.07.07.pdf
 
 
 # Pi Camera Example
+ 1- Install GStreamer element for the Raspberry Pi camera module : 
+ 
+ https://github.com/thaytan/gst-rpicamsrc
+ 
+ 2- Use the new python script : stream_infearnew.py
+ 
+Some results :
