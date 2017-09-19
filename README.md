@@ -78,6 +78,8 @@ FPS >= 8  :
 
 
 # Acknowledgement
+The authors would like to thank the developers of Movidius NCS and gst-rpicamsrc.
 
+This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III, Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
 
 
