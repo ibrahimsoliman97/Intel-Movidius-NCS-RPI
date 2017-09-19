@@ -87,11 +87,11 @@ The authors would like to thank the developers of Movidius NCS and gst-rpicamsrc
 
 <tr>
 
-<td align="right" valign="right">
+<td align="lef" valign="left">
 This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III, Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
 </td>
 
-<td align="left" valign="left">
+<td align="right" valign="right">
 <img src="http://www.utem.edu.my/portal/image/newlogo/LogoJawi.png" alt="description here" />
 </td>
 
