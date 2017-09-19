@@ -40,10 +40,12 @@ gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=320,h
  
  3- Use the new python script : stream_infearnew.py
  
-Some results " FPS ~= 8 - 11 fps for SqueezeNet " :
+FPS >= 8 fps for SqueezeNet :
 
-Network inferance | S
-:-------------------------:|:-------------------------:
-![](/src/keyboard.png)  |  ![](/src/mouse.png)
-![](/src/lock.png)      |  ![](/src/watch.png)
+Network inferance | 
+|:-------------------------:|:-------------------------:|
+|![](/src/keyboard.png)  |  ![](/src/mouse.png)|
+|![](/src/lock.png)      |  ![](/src/watch.png)|
+
+
 ![](/src/glasses.png)   
