@@ -42,6 +42,27 @@ gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=320,h
  
 FPS >= 8 fps for SqueezeNet :
 
+<table>
+
+<tr>
+
+<td align="center" valign="center">
+<img src="/src/keyboard.png" alt="description here" />
+<br />
+Caption text centered under the image.
+</td>
+
+<td align="center" valign="center">
+<img src="/src/mouse.png" alt="description here" />
+<br />
+Caption text centered under the image.
+</td>
+
+</tr>
+
+</table>
+
+
 Network inferance | 
 |:-------------------------:|:-------------------------:|
 |![](/src/keyboard.png)  |  ![](/src/mouse.png)|
