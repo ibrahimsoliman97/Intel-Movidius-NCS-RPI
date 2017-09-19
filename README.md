@@ -13,7 +13,7 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
  5- Pi Camera
  
 # Installtion and running your network with USB Camera on RPI
- Please follow the attached installation guide provided by Movidius NCS :
+ Please follow the installation guide provided by Movidius NCS :
  
  https://ncs-forum-uploads.s3.amazonaws.com/ncsdk/MvNC_SDK_01_07_07/NCS_Getting_Started_1.07.07.pdf
  
@@ -24,7 +24,7 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
 
 ![Alt text](/src/connection.jpg?raw=true "Optional Title")
 
- 1- From prevouis steps, you sholud have the following files on your Raspberry Pi  :
+ 1- From previous steps, you should have the following files on your Raspberry Pi :
  
     - ncapi folder that include network's floders with each network graph file that has been compiled on your development computer.
     - installed GStreamer on your Raspberry Pi
@@ -33,12 +33,14 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
  
  https://github.com/thaytan/gst-rpicamsrc
  
-gst-rpicamsrc testing, run below coommnd on your termainal, you should get a live stream from your PiCamera:
+gst-rpicamsrc testing, run command below on your terminal, you should get a live stream from your PiCamera:
 
     gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=640,height=480,framerate=25/1 ! filesink location=test.h264
 
  
- 3- Use the new python script : stream_infearnew.py
+ 3- Download and copy the new python script 'stream_infearnew.py' to '../ncapi/py_examples/stream_infer/'
+ 
+ 4- Run stream_infearnew.py
  
 SqueezeNet Inferance :
 
