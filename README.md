@@ -78,7 +78,7 @@ FPS >= 8  :
 
 
 # Acknowledgement
-The authors would like to thank the developers of Movidius NCS and gst-rpicamsrc.
+The author would like to thank the developers of Movidius NCS and gst-rpicamsrc.
 
 
 
