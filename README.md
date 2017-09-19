@@ -40,4 +40,14 @@ gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=320,h
  
  3- Use the new python script : stream_infearnew.py
  
-Some results :
+Some results " FPS ~= 8 - 11 for SqueezeNet " :
+
+![Alt text](/src/keyboard.png?raw=true "Optional Title")
+
+![Alt text](/src/mouse.png?raw=true "Optional Title")
+
+![Alt text](/src/lock.png?raw=true "Optional Title")
+
+![Alt text](/src/watch.png?raw=true "Optional Title")
+
+![Alt text](/src/glass.png?raw=true "Optional Title")
