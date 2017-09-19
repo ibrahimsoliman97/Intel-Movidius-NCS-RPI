@@ -12,7 +12,7 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
  
  5- Pi Camera
  
-# Installtion and running your network with USB Camera on RPI
+# Installation and running your network with USB Camera on RPI
  Please follow the installation guide provided by Movidius NCS :
  
  https://ncs-forum-uploads.s3.amazonaws.com/ncsdk/MvNC_SDK_01_07_07/NCS_Getting_Started_1.07.07.pdf
@@ -42,7 +42,7 @@ gst-rpicamsrc testing, run command below on your terminal, you should get a live
  
  4- Run stream_infearnew.py
  
-SqueezeNet Inferance :
+SqueezeNet Inference :
 
 FPS >= 8  :
 
