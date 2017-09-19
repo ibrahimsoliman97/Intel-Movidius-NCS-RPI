@@ -88,7 +88,7 @@ The author would like to thank the developers of Movidius NCS and gst-rpicamsrc.
 <tr>
 
 <td align="lef" valign="left">
-This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III (Machine Learning and Signal Processing), Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
+The equipment used in this work is provided by Machine Learning and Signal Processing Research Lab, Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
 </td>
 
 <td align="right" valign="right">
