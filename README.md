@@ -42,7 +42,7 @@ gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=320,h
  
 Some results " FPS ~= 8 - 11 fps for SqueezeNet " :
 
-             |  
+ s            |  s
 :-------------------------:|:-------------------------:
 ![](/src/keyboard.png)  |  ![](/src/mouse.png)
 ![](/src/lock.png)      |  ![](/src/watch.png)
