@@ -6,7 +6,7 @@ Image classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi 
  
  2- Development computer running Ubuntu 16.04 LTS
  
- 3- Raspberry Pi " We have used Raspberry Pi 3 Model B Rev 1.2 "
+ 3- Raspberry Pi " Raspberry Pi 3 Model B Rev 1.2 has been used in this work "
  
  4- USB Camera 
  
