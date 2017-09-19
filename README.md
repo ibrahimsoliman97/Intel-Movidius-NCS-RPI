@@ -6,7 +6,7 @@ Image classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi 
  
  2- Development computer running Ubuntu 16.04 LTS
  
- 3- Raspberry Pi 
+ 3- Raspberry Pi " We have used Raspberry Pi 3 Model B Rev 1.2 "
  
  4- USB Camera 
  
@@ -29,22 +29,22 @@ Image classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi 
     - ncapi folder that include network's floders with each network graph file that has been compiled on your development computer.
     - installed GStreamer on your Raspberry Pi
     
- 2- Install GStreamer element for the Raspberry Pi camera module : 
+ 2- Install GStreamer element for the Raspberry Pi camera module (gst-rpicamsrc): 
  
  https://github.com/thaytan/gst-rpicamsrc
  
-gst-rpicamsrc testing, run command below on your terminal, you should get a live stream from your PiCamera:
+gst-rpicamsrc testing, run command below on your terminal, you should get a live stream preview from your PiCamera:
 
     gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=640,height=480,framerate=25/1 ! filesink location=test.h264
 
  
- 3- Download and copy the new python script 'stream_infearnew.py' to '../ncapi/py_examples/stream_infer/'
+ 3- Download and copy the modified python script 'stream_infearnew.py' to '../ncapi/py_examples/stream_infer/'
  
  4- Run stream_infearnew.py
  
 SqueezeNet Inference :
 
-FPS >= 8  :
+FPS ~= 9 :
 
 <table>
 
