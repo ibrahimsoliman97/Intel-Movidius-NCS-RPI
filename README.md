@@ -45,28 +45,25 @@ FPS >= 8 fps for SqueezeNet :
 <table>
 
 <tr>
-
 <td align="center" valign="center">
 <img src="/src/keyboard.png" alt="description here" />
-<br />
-Caption text centered under the image.
 </td>
 
 <td align="center" valign="center">
 <img src="/src/mouse.png" alt="description here" />
-<br />
-Caption text centered under the image.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="/src/lock.png" alt="description here" />
 </td>
 
+<td align="center" valign="center">
+<img src="/src/watch.png" alt="description here" />
+</td>
 </tr>
 
 </table>
 
 
-Network inferance | 
-|:-------------------------:|:-------------------------:|
-|![](/src/keyboard.png)  |  ![](/src/mouse.png)|
-|![](/src/lock.png)      |  ![](/src/watch.png)|
-
-
-![](/src/glasses.png)   
