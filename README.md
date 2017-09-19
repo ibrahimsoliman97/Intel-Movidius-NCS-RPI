@@ -1,5 +1,5 @@
 # Movidius-NCS-RPI
-Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi Camera or USB Web Camera)
+Image classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi Camera or USB Web Camera)
 
 # Required Materials
  1- Movidius™ Neural Compute Stick 
@@ -83,12 +83,12 @@ The authors would like to thank the developers of Movidius NCS and gst-rpicamsrc
 
 
 
-<table width="500" border="1" cellpadding="5">
+<table>
 
 <tr>
 
 <td align="lef" valign="left">
-This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III, Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
+This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III (Machine Learning and Signal Processing), Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
 </td>
 
 <td align="right" valign="right">
