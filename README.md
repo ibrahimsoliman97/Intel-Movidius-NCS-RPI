@@ -64,6 +64,12 @@ FPS >= 8 fps for SqueezeNet :
 </td>
 </tr>
 
+<tr>
+<td align="center" valign="center">
+<img src="/src/glasses.png" alt="description here" />
+</td>
+</tr>
+
 </table>
 
 
