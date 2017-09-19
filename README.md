@@ -21,6 +21,9 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
 
 
 # Pi Camera Example
+
+![Alt text](/src/connection.jpg?raw=true "Optional Title")
+
  1- From prevouis steps, you sholud have the following files on your Raspberry Pi  :
  
     - ncapi folder that include network's floders with each network graph file that has been compiled on your development computer.
