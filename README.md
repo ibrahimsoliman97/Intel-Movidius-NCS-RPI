@@ -35,7 +35,7 @@ Object classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi
  
 gst-rpicamsrc testing, run below coommnd on your termainal, you should get a live stream from your PiCamera:
 
-gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=320,height=480,framerate=25/1 ! filesink location=test.h264
+    gst-launch-1.0 rpicamsrc bitrate=1000000 fullscreen=0 ! video/x-h264,width=320,height=480,framerate=25/1 ! filesink location=test.h264
 
  
  3- Use the new python script : stream_infearnew.py
