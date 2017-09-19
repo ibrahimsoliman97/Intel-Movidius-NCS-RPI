@@ -80,6 +80,23 @@ FPS >= 8  :
 # Acknowledgement
 The authors would like to thank the developers of Movidius NCS and gst-rpicamsrc.
 
-This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III, Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
 
+
+
+<table width="500" border="1" cellpadding="5">
+
+<tr>
+
+<td align="right" valign="right">
+This repository has created by IBRAHIM SOLIMAN under DR. LIM KIM CHUAN, Research Lab III, Faculty of Electronic and Computer Engineering, Universiti Teknikal Malaysia Melaka (UTeM).
+</td>
+
+<td align="left" valign="left">
+<img src="http://www.utem.edu.my/portal/image/newlogo/LogoJawi.png" alt="description here" />
+</td>
+
+
+</tr>
+
+</table>
 
