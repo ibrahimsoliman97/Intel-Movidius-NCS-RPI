@@ -1,8 +1,8 @@
-# Movidius-NCS-RPI
-Image classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi Camera or USB Web Camera)
+# Intel Movidius NCS RPI
+Image classifier using Intel Movidius Neural Compute Stick with Raspberry Pi and ( Pi Camera or USB Web Camera)
 
 # Required Materials
- 1- Movidius™ Neural Compute Stick 
+ 1- Intel Movidius™ Neural Compute Stick 
  
  2- Development computer running Ubuntu 16.04 LTS
  
@@ -13,7 +13,7 @@ Image classifier using Movidius Neural Compute Stick with Raspberry Pi and ( Pi 
  5- Pi Camera
  
 # Installation and running your network with USB Camera on RPI
- Please follow the installation guide provided by Movidius NCS :
+ Please follow the installation guide provided by Intel Movidius NCS :
  
  https://ncs-forum-uploads.s3.amazonaws.com/ncsdk/MvNC_SDK_01_07_07/NCS_Getting_Started_1.07.07.pdf
  
@@ -78,7 +78,7 @@ FPS ~= 9 :
 
 
 # Acknowledgement
-The author would like to thank the developers of Movidius NCS and gst-rpicamsrc.
+The author would like to thank the developers of Intel Movidius NCS and gst-rpicamsrc.
 
 
 
