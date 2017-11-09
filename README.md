@@ -78,17 +78,19 @@ FPS ~= 9 :
 
 
 # Object Detection [Tiny YOLO V1] :
-By using the yolo_example.py script with graph file of tiny YOLO, you will be able to get a result of object detection with [ ~5 FPS using USB 3 and ~3 FPS using USB 2 port for Intel Movidius NCS]
+By using the graph file of tiny YOLO, you will be able to get a result of object detection with [ ~5 FPS using USB 3 port and ~3 FPS using USB 2 port for Intel Movidius NCS]
 
 Single image inference :
- - python3 yolo_example.py 1 ../images/person.jpg
+
+    python3 yolo_example.py 1 ../images/person.jpg
  
  ![Alt text](/src/person.png?raw=true "Optional Title")
  ![Alt text](/src/cat.png?raw=true "Optional Title")
 
 
 Camera stream inference :
- - python3 object_detection_app.py
+
+    python3 object_detection_app.py
  
   ![Alt text](/src/tv.png?raw=true "Optional Title")
 
