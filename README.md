@@ -96,7 +96,7 @@ Camera stream inference :
 
 
 # Acknowledgement
-The author would like to thank the developers of Intel Movidius NCS and gst-rpicamsrc.
+The author would like to thank the developers of Intel Movidius NCS, YOLONCS and gst-rpicamsrc.
 
 
 
