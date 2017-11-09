@@ -1,5 +1,5 @@
 # Intel Movidius NCS RPI
-Image classifier using Intel Movidius Neural Compute Stick with Raspberry Pi and ( Pi Camera or USB Web Camera)
+Image classifier and Object detection using Intel Movidius Neural Compute Stick with Raspberry Pi and ( Pi Camera or USB Web Camera)
 
 # Required Materials
  1- Intel Movidius™ Neural Compute Stick 
@@ -76,6 +76,13 @@ FPS ~= 9 :
 
 </table>
 
+
+# Object Detection [Tiny YOLO V1] :
+By using the yolo_example.py script with graph file of tiny YOLO, you get get a results of object detection with [ ~5 FPS using USB 3 and ~3 FPS using USB 2 port]
+Single image inference :
+ - python3 yolo_example.py 1 ../images/person.jpg
+Camera stream inference :
+ - python3 object_detection_app.py
 
 # Acknowledgement
 The author would like to thank the developers of Intel Movidius NCS and gst-rpicamsrc.
