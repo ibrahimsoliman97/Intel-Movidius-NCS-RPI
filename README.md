@@ -79,6 +79,7 @@ FPS ~= 9 :
 
 # Object Detection [Tiny YOLO V1] :
 Compile .prototxt and corresponding .caffemodel to get the NCS graph file:
+
    download pretrained model (.caffemodel):
      https://drive.google.com/open?id=1HBbhOwafuanewpcQ2DMpcURDveb2JNYR
      
