@@ -81,6 +81,7 @@ FPS ~= 9 :
 Compile .prototxt and corresponding .caffemodel to get the NCS graph file:
 
    download pretrained model (.caffemodel):
+     
      https://drive.google.com/open?id=1HBbhOwafuanewpcQ2DMpcURDveb2JNYR
      
 By using the graph file of tiny YOLO, you will be able to get a result of object detection with [ ~5 FPS using USB 3 port and ~3 FPS using USB 2 port for Intel Movidius NCS]
