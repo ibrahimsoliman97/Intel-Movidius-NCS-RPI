@@ -116,7 +116,7 @@ The equipment used in this work is provided by Machine Learning and Signal Proce
 </td>
 
 <td align="right" valign="right">
-<img src="http://www.utem.edu.my/portal/image/newlogo/LogoJawi.png" alt="description here" />
+<img src="https://www.utem.edu.my/image/newlogo/LogoJawi.png" alt="description here" />
 </td>
 
 
